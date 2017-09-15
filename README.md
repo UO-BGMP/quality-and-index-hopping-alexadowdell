@@ -1,6 +1,6 @@
 # quality-and-index-hopping-alexadowdell
 
-1.
+1. Contains:
 
 -  `Final_IndexHoppingProject.Rmd`: Final Rmarkdown compilation of Index Hopping Project
 -  `Final_IndexHoppingProject_html.pdf`: Final rendered HTML compilation of Index Hopping Project exported as a PDF
