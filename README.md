@@ -12,13 +12,13 @@
     - R3 file: `R3_Part1_dist_output.tsv`
     - R4 file: `R4_Part1_dist_output.tsv`
   
-  - Part 1-2 Frequency Distributions based on Avg Quality Score
+  - Part 1-2: Frequency Distributions based on Avg Quality Score
     - R1 file: `R1_part2Plot.txt`
     - R2 file: `R2_part2Plot.txt`
     - R3 file: `R3_part2Plot.txt`
     - R4 file: `R4_part2Plot.txt`
     
-  - Part 2 Demultiplexing
+  - Part 2: Demultiplexing
     - Demultiplexing script output (contains cutoff 30 statistics, expected index pair dictionary, index swapped pair dictionary, undetermined (N) index pair dictionary): `1294_S1_L008_R_Output_table_Fixed_30-2`
     - Frequency Distribution of Expected Index Pairs at Cutoff 30: `expectedOutputTableFixed30.tsv`
     - Frequency Distribution of Swapped Index Pairs at Cutoff 30: `swappedOutputTableFixed.tsv`
