@@ -1,11 +1,13 @@
 # quality-and-index-hopping-alexadowdell
 
+1. Contains:
+
 -  `Final_IndexHoppingProject.Rmd`: Final Rmarkdown compilation of Index Hopping Project
 -  `Final_IndexHoppingProject_html.pdf`: Final rendered HTML compilation of Index Hopping Project exported as a PDF
 -  `Final_IndexHoppingScript.html`: Final rendered HTML compilation of Index Hopping Project
 -  `Final_IndexHoppingScript.pdf`: Final rendered PDF compilation of Index Hopping Project
 
-`outputfiles/` contains: 
+2. `outputfiles/` contains: 
   - Part 1-1: Distributions for Avg Quality Score for each Base Position
     - R1 file: `R1_Part1_dist_output.tsv`
     - R2 file: `R2_Part1_dist_output.tsv`
@@ -27,7 +29,7 @@
     - Frequency Distribution of Swapped Index Pairs at Cutoff 0: `swappedIndexesRaw2.tsv`
 
 
-`scripts/` contains: 
+3. `scripts/` contains: 
   - Part 1-1:
     - Mean Distribution for R1 file: `part1Hist1.py`
     - Mean Distribution for R2 file: `part1Hist2.py`
